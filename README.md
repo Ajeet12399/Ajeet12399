@@ -46,13 +46,4 @@
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ---
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ajjubhai008&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajjubhai008&theme=dark&hide_border=false&layout=compact)
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Ajjubhai008&icon=0&color=0)
