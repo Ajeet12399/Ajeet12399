@@ -5,7 +5,7 @@
 
 # 💫 About Me
 
-- 🎓 3rd Year CSE (AIML) Student  
+- 🎓 4th Year CSE (AIML) Student  
 - 🤖 Currently building Multimodal Deep Learning Projects  
 - 🚀 Interested in AI/ML, Full Stack Development & Cloud  
 - 📈 Focused on Internship & Research Opportunities  
